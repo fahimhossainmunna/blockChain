@@ -59,7 +59,7 @@ const Technology = () => {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true, amount: 0.3 }}
-            className="text-white/70 font-pop w-full md:w-[340px]"
+            className="text-white/60 font-pop w-full md:w-[340px]"
           >
             <p className="text-[16px] leading-[30px] w-[307px] my-5">
               01. Every transaction, every contract, and every interaction on our
